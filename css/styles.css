@@ -71,6 +71,7 @@ a:hover{
   margin:100px 0;
 }
 .personalprof{
+  background-color: #d4f3ef;
   width:15%;
   height:15%;
 }
@@ -104,6 +105,7 @@ img {
   width: 30%;
   height: 30%;
   float:left;
+  background-color: #d4f3ef;
 }
 .personal1 {
   margin-top: 20px;
@@ -111,6 +113,7 @@ img {
   width: 30%;
   height: 30%;
   float:right;
+  background-color: #d4f3ef;
 }
 .skill-row{
   width:50%;
